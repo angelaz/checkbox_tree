@@ -1,7 +1,7 @@
 checkbox_tree
 =============
 
-An elegant solution to the following problem.
+An elegant solution to the following problem by @stubailo and @angelaz.
 
 Checkbox Tree
 ===========
